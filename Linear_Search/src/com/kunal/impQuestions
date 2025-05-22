@@ -1,0 +1,20 @@
+✅ Top LeetCode Problems on Linear Search
+Difficulty	Problem	Key Concepts
+🟢 Easy	1295. Find Numbers with Even Number of Digits	Digit counting, iteration
+🟢 Easy	1346. Check If N and Its Double Exist	Nested linear search
+🟢 Easy	1380. Lucky Numbers in a Matrix	2D array traversal
+🟢 Easy	1672. Richest Customer Wealth	2D array + row-wise sum
+🟢 Easy	485. Max Consecutive Ones	Sequential scan
+🟢 Easy	1470. Shuffle the Array	Index mapping
+🟢 Easy	1431. Kids With the Greatest Number of Candies	Max + condition check
+🟢 Easy	1619. Mean of Array After Removing Some Elements	Sorting + sum using loop
+🟢 Easy	27. Remove Element	In-place overwrite
+🟢 Easy	26. Remove Duplicates from Sorted Array	In-place array update
+🟢 Easy	448. Find All Numbers Disappeared in an Array	Array marking
+🟢 Easy	136. Single Number	Count + XOR (try linear first)
+
+🟡 Bonus - 2D Linear Search Problems
+Problem	Link
+🔹 Search in a 2D Array (Unsorted)	Write your own using nested loops
+🔹 74. Search a 2D Matrix	(Binary search optimized version)
+🔹 240. Search a 2D Matrix II	(Staircase linear search)
