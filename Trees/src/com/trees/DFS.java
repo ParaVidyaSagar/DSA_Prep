@@ -1,4 +1,4 @@
-package com.binaryTree;
+package com.trees;
 
 /*
 🌳 Depth-First Search (DFS) in Trees
