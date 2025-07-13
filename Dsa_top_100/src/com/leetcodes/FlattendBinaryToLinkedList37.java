@@ -1,6 +1,6 @@
 package com.leetcodes;
 
-public class FlattendBinaryToLinkedList {
+public class FlattendBinaryToLinkedList37 {
 	static class TreeNode{
 		int val;
 		TreeNode left, right;
