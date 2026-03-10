@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 
 public class SecondNonRepeatingCharacter {
  public static void main(String[] args) {
-	 String input = "swiss";
+	 String input = "sagar";
      System.out.println(secondNonRepeatingChar(input)); // Output: 'i'
 }
  static Character secondNonRepeatingChar(String str) {

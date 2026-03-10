@@ -3,7 +3,7 @@ package com.interviewpractice;
 public class CheckTwoStringRotationsOfEachOther {
   public static void main(String[] args) {
 	String s1 = "ABCD";
-	String s2 = "CMAB";
+	String s2 = "CDAB";
 	System.out.println(areRotations(s1, s2));
 }
   

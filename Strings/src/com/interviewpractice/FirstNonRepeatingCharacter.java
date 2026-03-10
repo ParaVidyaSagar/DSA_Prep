@@ -2,7 +2,7 @@ package com.interviewpractice;
 
 import java.util.LinkedHashMap;
 
-public class FirstUniqueCharacter {
+public class FirstNonRepeatingCharacter {
 public static void main(String[] args) {
 	String input = "sssi";
 	System.out.println(firstNonRepeatingChar(input));

@@ -9,7 +9,9 @@ public class CountVowelsAndConsonants {
 	int vowels = 0;
 	int consonants = 0;
 	for(char c : s.toCharArray()) {
+		//Character.isLetter(c) it will check wheter it is char or number 
 		if(Character.isLetter(c)) {
+			//"aeiou".indexOf(c) - it will check if aeiou is in c index- it will give true(1) else (-1)
 			if("aeiou".indexOf(c) != -1) {
 				vowels++;
 			}else {
